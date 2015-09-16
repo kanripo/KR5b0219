@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:14:24.222468
+#+TITLE: 洞玄靈寶河圖仰謝三十六天土皇齋儀
+#+PROPERTY: DZID  DZ0516
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，9—776 四卷 洞玄部威儀類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
